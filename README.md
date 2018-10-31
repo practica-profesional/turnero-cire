@@ -1,2 +1,2 @@
 # turnero-cire
-reserva de sala de videoconferencia
+Sistema de turnos para CIRE
